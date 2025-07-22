@@ -1,3 +1,7 @@
+R341M
+Just open it. If you know why you are at this file you should have done that by now.
+
+PHYTWOD
 Controls:
 Blue flag - Resets everything
 Pause - You guessed it, it pauses the simulation
